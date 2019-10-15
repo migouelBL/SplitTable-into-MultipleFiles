@@ -8,5 +8,4 @@ MS Access utility that can split a large file into a series of smaller ones base
 * Modify filename and add prefix
 
 ![Settings Window](https://raw.github.com/SuspectSymmetry/SplitTable_into_MultipleFiles/master/Screenshots/Screenshot1.png)
-
 ![Settings Window](https://raw.github.com/SuspectSymmetry/SplitTable_into_MultipleFiles/master/Screenshots/Screenshot2.png)
